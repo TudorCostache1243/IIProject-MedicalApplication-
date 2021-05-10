@@ -1,0 +1,14 @@
+Pentru a folosii aplicatia va fii nevoie sa utilizati aplicatia xampp,(serviciu mySQL).
+In folderul in care este instalata aplicatia, va trebuii sa copiati continulul folderului "Baza de date",
+in folderul "mysql" din locatia de instalare a xampp, inainte de copiere trebuie oprit serviciul mysql din xampp,
+iar dupa copiere trebuie repornit
+Userii de test sunt urmatorii
+testPatient
+testDoctor
+testSpecialistDoctor
+testAdministrator
+Toti avand parola "password"
+Daca doriti sa modificati baza de date pentru a testa in detaliu aplicatia, puteti sa porniti serviciul apache
+si sa accesati in browser site-ul "http://localhost/phpmyadmin/"
+Baza de date a proiectului se numeste "industrialinformaticsproject"
+ 
